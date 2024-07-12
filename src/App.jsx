@@ -1,10 +1,10 @@
-import React from 'react'
+import NavBar from './components/NavBar'
 
 const App = () => {
   return (
-    <div className='tex-2xl bg-slate-600'>
-      hello
-    </div>
+    <>
+      <NavBar />
+    </>
   )
 }
 

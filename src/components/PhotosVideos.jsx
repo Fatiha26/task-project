@@ -10,7 +10,7 @@ import video4 from  '../assets/image/vide4.png';
 const PhotosVideos = () => {
   return (
    <>
-    <div className='md:mt-8 pr-4 flex md:flex-col flex-row gap-4'>
+    <div className='-mt-10 md:mt-8 pr-4 flex md:flex-col flex-row gap-4'>
     <div>
     <h3 className='md:text-2xl text-xl font-semibold'>Photos</h3>
     <div className='grid grid-cols-2 md:w-auto w-full mt-3'>

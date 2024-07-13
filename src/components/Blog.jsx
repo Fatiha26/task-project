@@ -7,7 +7,7 @@ const Blog = () => {
         <div key={index} className='p-4 w-auto h-[280px] bg-gray-100 rounded-xl shadow mb-8'>
           <h3 className='md:text-2xl text-lg font-semibold'>{items.heading}</h3>
           <div className='md:text-sm text-xs text-center text-gray-600 md:mt-4 overflow-y-scroll' style={{ maxHeight: '140px', scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
-            <style jsx>{`
+            <style>{`
               div::-webkit-scrollbar {
                 display: none;
               }

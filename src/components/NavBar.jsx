@@ -42,7 +42,7 @@ const NavBar = () => {
         </div>
         {/* Dropdown menu for small devices */}
         {click && (
-          <div className="lg:hidden block w-full bg-slate-900 transition">
+          <div className="lg:hidden block w-full bg-slate-900 bg-opacity-20 transition z-10 absolute">
             <div className="text-white flex flex-col items-center py-4 space-y-4">
               <FaSearch className="bg-slate-800 w-9 h-9 px-2 py-1 rounded-full" />
               <FaPen className="bg-slate-800 w-9 h-9 px-2 py-1 rounded-full" />

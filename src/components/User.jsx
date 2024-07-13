@@ -3,11 +3,11 @@ import { GoDotFill } from "react-icons/go";
 
 const User = () => {
   return (
-    <div>
-      <div className='-mt-24'>
+    <div className='flex justify-around'>
+      <div className='-mt-24 -ml-16'>
           <img src={profilePic} alt="profile image" />
       </div>
-      <div className='mt-8 -ml-20'>
+      <div className='mt-8 -ml-12'>
          <div className='flex items-center'>
          <h2 className='text-2xl font-semibold'>John Doe</h2>
          <span className='text-lg font-semibold mx-2'><GoDotFill/></span>

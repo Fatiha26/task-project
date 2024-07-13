@@ -7,22 +7,23 @@ import rectangle5 from  '../assets/image/rectangle5.png';
 const PhotosVideos = () => {
   return (
    <>
-    <div>
+    <div className='mt-8 pr-4'>
     <div>
     <h3 className='text-2xl font-semibold'>Photos</h3>
-    <div className='grid grid-cols-2'>
+    <div className='grid grid-cols-2 w-auto mt-3'>
       <img src={rectangle2} alt="1st image" />
       <img src={rectangle1} alt="2nd image" />
       <img src={rectangle4} alt="3rd image" />
       <img src={rectangle3} alt="4th image" />
     </div>
-    <a href="#" className='text-md font-medium text-sky-700 ml-[17rem]'>More +</a>
+    <a href="#" className='text-md font-medium text-sky-700 ml-48'>More +</a>
     </div>
-    <div>
+    <div className='mt-8'>
     <h3 className='text-2xl font-semibold'>Videos</h3>
-    <div className='grid grid-cols-1'>
+    <div className='grid grid-cols-1 w-full mt-3'>
       <img src={rectangle5} alt="1st image" />
     </div>
+    <a href="#" className='text-md font-medium text-sky-700 ml-48'>More +</a>
     </div>
     </div>
    </>

@@ -1,19 +1,12 @@
-import profilePic from '../assets/image/profile-pic2.png';
-
+import User from './User';
+import PhotosVideos from './PhotosVideos';
 const ProfileInfo = () => {
   return (
     <>
-    <div>
-    <img src={profilePic} alt="profile image" />
-      <div>
-         <h2>John Doe</h2><span></span><span>@johndoe</span>
-         <p>Astrophotographer 🌌 <br/>
-         Gamer 👾</p>
-      </div>
-      <div>
-         <a href="#">Follow</a>
-      </div>
-    </div>     
+    <div className='grid grid-cols-3 px-12'>
+      <User />  
+      <PhotosVideos />
+    </div>
       
     </>
   )

@@ -20,7 +20,7 @@ const User = () => {
          <a href="#" className='bg-sky-700 text-white md:px-5 px-3 md:py-2 py-1 rounded-3xl'>Follow</a>
       </div>
    </div>
-  )
-}
+  );
+};
 
-export default User
+export default User;

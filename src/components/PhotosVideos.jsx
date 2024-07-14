@@ -36,6 +36,6 @@ const PhotosVideos = () => {
   </div>
    </>
 
-  )
-}
-export default PhotosVideos
+  );
+};
+export default PhotosVideos;

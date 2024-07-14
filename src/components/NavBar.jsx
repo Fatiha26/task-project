@@ -18,9 +18,10 @@ const NavBar = () => {
           <div>
             <img src={logo} alt="logo image" />
           </div>
+          
           <div className="text-white flex items-center">
             {/* Icons for the large devices */}
-            <div className="lg:flex md:flex items-center hidden">
+            <div className="lg:flex  items-center hidden">
               <FaSearch className="bg-slate-800 w-9 h-9 px-2 py-1 rounded-full mr-2" />
               <FaPen className="bg-slate-800 w-9 h-9 px-2 py-1 rounded-full mr-2" />
               <IoMailOutline className="bg-slate-800 w-9 h-9 px-2 py-1 rounded-full mr-2" />
@@ -40,6 +41,7 @@ const NavBar = () => {
             </button>
           </div>
         </div>
+        
         {/* Dropdown menu for small devices */}
         {click && (
           <div className="lg:hidden block w-full bg-slate-900 bg-opacity-20 transition z-10 absolute">

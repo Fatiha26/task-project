@@ -7,6 +7,7 @@ This project is built using React JS, Tailwind CSS. The application features a u
 - [Features](#features)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -32,6 +33,14 @@ After starting the development server, you can view the application in your brow
   - **`App.js`**: Main application component.
   - **`index.js`**: Entry point for the React application.
 - **`package.json`**: Contains project metadata and dependencies.
+
+## Screenshots
+
+### For Large Device
+![For Large Device](../task-project/src/assets/image/large.png)
+### For Small Device
+![For Small Device](../task-project/src/assets/image/small.png)
+
 
 ## Technologies Used
 

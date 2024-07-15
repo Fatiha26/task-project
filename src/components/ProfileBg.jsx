@@ -7,4 +7,4 @@ const ProfileBg = () => {
   )
 }
 
-export default ProfileBg
+export default ProfileBg;

@@ -5,7 +5,6 @@ This project is built using React JS, Tailwind CSS. The application features a u
 ## Table of Contents
 
 - [Features](#features)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
@@ -18,10 +17,6 @@ This project is built using React JS, Tailwind CSS. The application features a u
 - **Photos and Videos Gallery:** Displays a grid of photos and videos with an option to view more.
 - **Blog Section:** Lists blog posts with titles, content previews, and read more links.
 
-
-## Usage
-
-After starting the development server, you can view the application in your browser by navigating to `http://127.0.0.1:5173`. The app will display a navigation bar, profile background, user profile, photos and videos gallery, and a blog section.
 
 ## Project Structure
 

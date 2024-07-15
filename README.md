@@ -50,3 +50,7 @@ After starting the development server, you can view the application in your brow
 - **Vite**: Next-generation frontend tooling for development and build.
 
 
+## Video Demo
+
+Watch the video demo [here](https://drive.google.com/drive/folders/15Mh_wdM-8nsDwLGIcmwmMX2VD7KWldoq).
+

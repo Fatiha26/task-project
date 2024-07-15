@@ -1,6 +1,6 @@
 # Task Project
 
-This project is built using React JS, Tailwind CSS. The application features a user profile, photo and video gallery, and a blog section.
+This is the "Task 1: Create a responsive webpage" project, built using React JS, Tailwind CSS. The application features a user profile, photo and video gallery, and a blog section.
 
 ## Table of Contents
 

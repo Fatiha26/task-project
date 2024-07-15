@@ -47,5 +47,5 @@ This is the "Task 1: Create a responsive webpage" project, built using React JS,
 
 ## Video Demo
 
-Watch the video demo [here](https://drive.google.com/drive/folders/15Mh_wdM-8nsDwLGIcmwmMX2VD7KWldoq).
+Watch the video demo [Here](https://drive.google.com/drive/folders/15Mh_wdM-8nsDwLGIcmwmMX2VD7KWldoq).
 

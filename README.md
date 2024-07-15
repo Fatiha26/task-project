@@ -37,9 +37,9 @@ After starting the development server, you can view the application in your brow
 ## Screenshots
 
 ### For Large Device
-![For Large Device](../task-project/src/assets/image/large.png)
+![For Large Device](src/assets/image/large.png)
 ### For Small Device
-![For Small Device](../task-project/src/assets/image/small.png)
+![For Small Device](src/assets/image/small.png)
 
 
 ## Technologies Used
